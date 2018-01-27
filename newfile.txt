@@ -1,0 +1,4 @@
+first version
+second version
+this will be stashed
+ok, it's over
