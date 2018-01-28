@@ -1,2 +1,2 @@
 elso txt file a remote repository-n
-most módosítom aztán checkout-tal visszaállítom az eredetire
+I make a commit and push to git_training
