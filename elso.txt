@@ -1,2 +1,3 @@
 elso txt file a remote repository-n
 I make a commit and push to git_training
+one more change here
